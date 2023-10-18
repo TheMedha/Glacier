@@ -1,5 +1,5 @@
-# Lists of all creatures and herbs of the Glacier continent
-This is a collection of all the creatures and herbs known so far in Glacier.<br>
+# Tomes and collections of Glacier
+These are collections of all the creatures and herbs known so far in Glacier.<br>
 They are listed as files above and each contain a PDF file. <b>On phone you have to click "View code" to see them!</b> Click the PDF name to view (and download) the file.<br>
 The contents and descriptions have been written by many wonderfully creative quest masters, moms, and rp'ers including myself.<br>
 
